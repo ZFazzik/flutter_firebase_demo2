@@ -3,7 +3,7 @@
 Nama: Faiz Azzikri
 NIM : 230102044
 KELAS : IF23B
-Mata Kuliah: Pemrograman Berbasis Platform Cross Platform
+Mata Kuliah: Pemrograman Perangkar Bergerat Client Server
 
 ## Fitur
 
