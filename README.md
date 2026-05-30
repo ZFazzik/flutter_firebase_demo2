@@ -1,16 +1,31 @@
-# flutter_firebase_demo2
+# Flutter Firebase Authentication
 
-A new Flutter project.
+Nama: Faiz Azzikri
+NIM : 230102044
+KELAS : IF23B
+Mata Kuliah: Pemrograman Berbasis Platform Cross Platform
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+* Login menggunakan Firebase Authentication
+* Login Email dan Password
+* Halaman Home setelah login
+* Logout
 
-A few resources to get you started if this is your first Flutter project:
+## Akun Testing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Email:
+[testingif23b@mail.com](mailto:testingif23b@mail.com)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Password:
+12345678
+
+## APK
+
+File APK tersedia pada folder:
+
+apk/app-release.apk
+
+## Repository GitHub
+
+https://github.com/ZFazzik/flutter_firebase_demo2
